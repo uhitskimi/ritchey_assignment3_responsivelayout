@@ -1,0 +1,1 @@
+# ritchey_assignment3_responsivelayout
